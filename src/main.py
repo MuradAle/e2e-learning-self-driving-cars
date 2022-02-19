@@ -8,6 +8,7 @@ Main pipeline of Self-driving car training.
 import argparse
 
 import torch
+import torchvision
 import torch.nn as nn
 import torch.optim as optim
 
